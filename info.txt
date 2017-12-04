@@ -1,5 +1,12 @@
 hello world
  hello
  hi
+<<<<<<< HEAD
 
 test
+=======
+breed
+testtest2
+CAFE TIME TEST3
+TEST5
+>>>>>>> mybranch
